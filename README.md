@@ -3,6 +3,7 @@ This C# program reads data from the Bizhub web interface and writes the counter 
 
 Requirements
 There is a text file named IPs.txt. Add the IP addresses of your printers to this file.
+The program will create an "Archiv" directory. There you need to upload the sample xlsx named "Sablon".
 
 The file should be formatted like this:
 XXX.XXX.XXX.XXX
