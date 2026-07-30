@@ -1,0 +1,6 @@
+C:\Users\takacs.peter.jeno\Desktop\nyomtató\nyomtatok.exe
+C:\Users\takacs.peter.jeno\Desktop\nyomtató\nyomtatok.dll
+C:\Users\takacs.peter.jeno\Desktop\nyomtató\nyomtatok.deps.json
+C:\Users\takacs.peter.jeno\Desktop\nyomtató\nyomtatok.runtimeconfig.json
+C:\Users\takacs.peter.jeno\Desktop\nyomtató\nyomtatok.pdb
+C:\Users\takacs.peter.jeno\Desktop\nyomtató\HtmlAgilityPack.dll

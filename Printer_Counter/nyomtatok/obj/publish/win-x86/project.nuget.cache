@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5lreRZTRRg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\takacs.peter.jeno\\source\\repos\\nyomtatok\\nyomtatok\\nyomtatok.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\10.0.9\\microsoft.netcore.app.runtime.win-x86.10.0.9.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\10.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.10.0.9.nupkg.sha512",
+    "C:\\Users\\takacs.peter.jeno\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\10.0.9\\microsoft.aspnetcore.app.runtime.win-x86.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
